@@ -1,10 +1,12 @@
-Develop a optimization strategy for how startups raise capital.
-Is there a “secret sauce” for how much money you need to raise and
-at what time?
+1. In an industry with high levels of uncertainty, the casual observer can believe that when a startup company is successful it is a random event. 
 
-Crunchbase  Pro dataset.
-I have used it for datelining purposes in the past. It is
-all self-reported, but with some social checks.
-I’m very interested in startups, and have worked closely
-early-stage startups. I’m also really interested at the IPO fever
-that is going around.
+I will answer how, when and how much money a startup should take in order to successfully reach the next round of funding.
+
+2. Crunchbase  Pro dataset. I have access to a Pro account. I also found a data dump from 2014 here: https://data.world/datanerd/startup-venture-funding. It will require some work to accurately create the exports, as the maximum export is 1000 rows. 
+
+Due to changes in technology and significant financial resets, I will be looking at companies founded after 2000.
+
+
+3. I have used the Crunchbase Pro dataset in the past primarily for data mining purposes. The data is self-reported by industry. 
+
+4. I have worked closely with a number of startups in the past and understand  early-stage funding rounds. Even as someone with more of an inside view, I am still perplexed by the amounts of money that are raised at certain rounds and the time between fundraising, and how these elements can predict the outcomes of success for the company. My question feels particularly relevant as there are a significant number of VC-funded companies IPO’ing this year - an event seen as a signal of success. 

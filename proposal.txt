@@ -1,0 +1,10 @@
+Develop a optimization strategy for how startups raise capital.
+Is there a “secret sauce” for how much money you need to raise and
+at what time?
+
+Crunchbase  Pro dataset.
+I have used it for datelining purposes in the past. It is
+all self-reported, but with some social checks.
+I’m very interested in startups, and have worked closely
+early-stage startups. I’m also really interested at the IPO fever
+that is going around.

@@ -2,8 +2,7 @@
 
 1. In an industry with high levels of uncertainty, the casual observer can believe that when a startup company is successful it is a random event. I will answer how, when and how much money a startup should take in order to successfully reach the next round of funding.
 
-2. Crunchbase  Pro dataset. I have access to a Pro account. I also found a data dump from 2014 here: https://data.world/datanerd/startup-venture-funding. It will require some work to accurately create the exports, as the maximum export is 1000 rows. Due to changes in technology and significant financial resets, I will be looking at companies founded after 2000.
-
+2. Crunchbase  Pro dataset. I have access to a Pro account. I also found a data dump from 2014 here: https://data.world/datanerd/startup-venture-funding. Due to changes in technology and significant financial resets, I will be looking at companies founded after 2000.
 
 3. I have used the Crunchbase Pro dataset in the past primarily for data mining purposes. The data is self-reported by industry.
 

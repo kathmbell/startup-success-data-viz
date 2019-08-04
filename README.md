@@ -23,6 +23,4 @@ I am using data sourced from Crunchbase Pro. Crunchbase is a database for compan
 
 **Metrics**
 
-> * Precision - meaning in my case
-> * Recall - meaning in my case
-> * F1 - meaning in my case
+> * Recall - I am optimizing for recall. From the perspective of a CEO, I want to make sure the CEO is very confident that the conditions are met that the company will not succeed.
